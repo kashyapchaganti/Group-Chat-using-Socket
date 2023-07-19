@@ -1,4 +1,4 @@
-# Group Chat Using Socket 
+# Group Chat Using Socket.io 
 
 - I just wanted to try and see how to integrate the feature of Group Chats on my [Chatty App](https://github.com/kashyapchaganti/Chatty--A-Real-Time-ChatApp)
 - Sockets are quite cool!
